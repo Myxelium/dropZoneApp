@@ -1,0 +1,5 @@
+<input #fileInput type="file" multiple (change)="selectedFromDialog($event)">
+<div class="dropzone" [class.fileHover]="isTouchedByFile" (fileDropped)="ondrop($event)">
+  <span>{{text}}</span>
+  <mat-icon>{{icon}}</mat-icon>
+</div>
