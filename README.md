@@ -1,6 +1,6 @@
 # DropZoneApp
 
-https://myxelium.github.io/ngDropzoneApp/dist/dropZoneApp/
+https://myxelium.github.io/ngDropzoneApp
 
 
 This is a simple dropzone for uploading files.
